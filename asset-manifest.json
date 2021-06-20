@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/mood-cards/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/mood-cards/static/js/main.07c32c50.chunk.js",
+    "main.js.map": "/mood-cards/static/js/main.07c32c50.chunk.js.map",
+    "runtime-main.js": "/mood-cards/static/js/runtime-main.d19c0566.js",
+    "runtime-main.js.map": "/mood-cards/static/js/runtime-main.d19c0566.js.map",
+    "static/js/2.f5003927.chunk.js": "/mood-cards/static/js/2.f5003927.chunk.js",
+    "static/js/2.f5003927.chunk.js.map": "/mood-cards/static/js/2.f5003927.chunk.js.map",
+    "static/js/3.f5ffd13e.chunk.js": "/mood-cards/static/js/3.f5ffd13e.chunk.js",
+    "static/js/3.f5ffd13e.chunk.js.map": "/mood-cards/static/js/3.f5ffd13e.chunk.js.map",
+    "index.html": "/mood-cards/index.html",
+    "service-worker.js": "/mood-cards/service-worker.js",
+    "service-worker.js.map": "/mood-cards/service-worker.js.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/mood-cards/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f5003927.chunk.js.LICENSE.txt": "/mood-cards/static/js/2.f5003927.chunk.js.LICENSE.txt",
+    "static/media/amen-boom_01.9c92b1a0.png": "/mood-cards/static/media/amen-boom_01.9c92b1a0.png",
+    "static/media/amen-yellow-outlined.19175e6a.png": "/mood-cards/static/media/amen-yellow-outlined.19175e6a.png",
+    "static/media/i-love-you.f277c8ca.png": "/mood-cards/static/media/i-love-you.f277c8ca.png",
+    "static/media/lord-is-the-best.c2f1da64.png": "/mood-cards/static/media/lord-is-the-best.c2f1da64.png",
+    "static/media/pink-heart.aeea5fd8.png": "/mood-cards/static/media/pink-heart.aeea5fd8.png",
+    "static/media/taiwan-national-flag.b64ddc98.png": "/mood-cards/static/media/taiwan-national-flag.b64ddc98.png",
+    "static/media/thanks-lord.6778848e.png": "/mood-cards/static/media/thanks-lord.6778848e.png",
+    "static/media/triple-great.02eb47c5.png": "/mood-cards/static/media/triple-great.02eb47c5.png",
+    "static/media/word-is-best_01.8dc5cb18.png": "/mood-cards/static/media/word-is-best_01.8dc5cb18.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d19c0566.js",
+    "static/js/2.f5003927.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.07c32c50.chunk.js"
+  ]
+}
